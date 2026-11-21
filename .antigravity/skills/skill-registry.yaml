@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: south-african-restitution-roadmap-and-qsf-trust-execution
-  name: South African Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/south-african-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_za_001
+    name: South Africa Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_002
+    name: South Africa Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_003
+    name: South Africa Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_004
+    name: South Africa Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_005
+    name: South Africa Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_006
+    name: South Africa Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_007
+    name: South Africa Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_008
+    name: South Africa Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_009
+    name: South Africa Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_010
+    name: South Africa Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_011
+    name: South Africa Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_012
+    name: South Africa Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_013
+    name: South Africa Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_014
+    name: South Africa Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_015
+    name: South Africa Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_016
+    name: South Africa Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_017
+    name: South Africa Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_018
+    name: South Africa Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_019
+    name: South Africa Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_020
+    name: South Africa Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_021
+    name: South Africa Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_022
+    name: South Africa Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_023
+    name: South Africa Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_024
+    name: South Africa Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_025
+    name: South Africa Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_026
+    name: South Africa Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_027
+    name: South Africa Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_028
+    name: South Africa Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_029
+    name: South Africa Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_030
+    name: South Africa Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_031
+    name: South Africa Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_032
+    name: South Africa Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_033
+    name: South Africa Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_034
+    name: South Africa Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_035
+    name: South Africa Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_036
+    name: South Africa Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_037
+    name: South Africa Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_038
+    name: South Africa Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_039
+    name: South Africa Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_040
+    name: South Africa Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_041
+    name: South Africa Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_042
+    name: South Africa Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_043
+    name: South Africa Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_044
+    name: South Africa Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_045
+    name: South Africa Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_046
+    name: South Africa Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_047
+    name: South Africa Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_048
+    name: South Africa Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_049
+    name: South Africa Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_050
+    name: South Africa Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_051
+    name: South Africa Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_052
+    name: South Africa Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_053
+    name: South Africa Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_054
+    name: South Africa Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_055
+    name: South Africa Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_056
+    name: South Africa Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_057
+    name: South Africa Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_058
+    name: South Africa Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_059
+    name: South Africa Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_060
+    name: South Africa Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_061
+    name: South Africa Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_062
+    name: South Africa Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_063
+    name: South Africa Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_064
+    name: South Africa Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_065
+    name: South Africa Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_066
+    name: South Africa Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_067
+    name: South Africa Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_068
+    name: South Africa Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_069
+    name: South Africa Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_070
+    name: South Africa Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_071
+    name: South Africa Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_072
+    name: South Africa Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_073
+    name: South Africa Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_074
+    name: South Africa Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_075
+    name: South Africa Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_076
+    name: South Africa Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_077
+    name: South Africa Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_078
+    name: South Africa Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_079
+    name: South Africa Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_080
+    name: South Africa Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_081
+    name: South Africa Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_082
+    name: South Africa Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_083
+    name: South Africa Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_084
+    name: South Africa Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_085
+    name: South Africa Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_086
+    name: South Africa Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_087
+    name: South Africa Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_088
+    name: South Africa Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_089
+    name: South Africa Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_090
+    name: South Africa Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_091
+    name: South Africa Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_092
+    name: South Africa Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_093
+    name: South Africa Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_094
+    name: South Africa Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_095
+    name: South Africa Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_096
+    name: South Africa Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_097
+    name: South Africa Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_098
+    name: South Africa Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_099
+    name: South Africa Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_100
+    name: South Africa Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_101
+    name: South Africa Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_102
+    name: South Africa Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_103
+    name: South Africa Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_104
+    name: South Africa Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_105
+    name: South Africa Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_106
+    name: South Africa Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_107
+    name: South Africa Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_108
+    name: South Africa Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_109
+    name: South Africa Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_110
+    name: South Africa Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_111
+    name: South Africa Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_112
+    name: South Africa Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_113
+    name: South Africa Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_114
+    name: South Africa Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_115
+    name: South Africa Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_116
+    name: South Africa Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_117
+    name: South Africa Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_118
+    name: South Africa Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_119
+    name: South Africa Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_120
+    name: South Africa Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_121
+    name: South Africa Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_122
+    name: South Africa Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_123
+    name: South Africa Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_124
+    name: South Africa Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_125
+    name: South Africa Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_126
+    name: South Africa Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_127
+    name: South Africa Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_128
+    name: South Africa Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_129
+    name: South Africa Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_130
+    name: South Africa Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_131
+    name: South Africa Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_132
+    name: South Africa Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_133
+    name: South Africa Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_134
+    name: South Africa Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_135
+    name: South Africa Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_136
+    name: South Africa Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_137
+    name: South Africa Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_138
+    name: South Africa Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_139
+    name: South Africa Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_140
+    name: South Africa Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_141
+    name: South Africa Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_142
+    name: South Africa Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_143
+    name: South Africa Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_144
+    name: South Africa Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_145
+    name: South Africa Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_146
+    name: South Africa Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_147
+    name: South Africa Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_148
+    name: South Africa Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_149
+    name: South Africa Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_150
+    name: South Africa Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_151
+    name: South Africa Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_152
+    name: South Africa Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_153
+    name: South Africa Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_154
+    name: South Africa Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_155
+    name: South Africa Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_156
+    name: South Africa Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_157
+    name: South Africa Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_158
+    name: South Africa Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_159
+    name: South Africa Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_160
+    name: South Africa Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_161
+    name: South Africa Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_162
+    name: South Africa Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_163
+    name: South Africa Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_164
+    name: South Africa Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_165
+    name: South Africa Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_166
+    name: South Africa Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_167
+    name: South Africa Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_168
+    name: South Africa Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_169
+    name: South Africa Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_170
+    name: South Africa Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_171
+    name: South Africa Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_172
+    name: South Africa Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_173
+    name: South Africa Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_174
+    name: South Africa Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_175
+    name: South Africa Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_176
+    name: South Africa Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_177
+    name: South Africa Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_178
+    name: South Africa Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_179
+    name: South Africa Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_180
+    name: South Africa Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_181
+    name: South Africa Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_182
+    name: South Africa Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_183
+    name: South Africa Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_184
+    name: South Africa Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_185
+    name: South Africa Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_186
+    name: South Africa Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_187
+    name: South Africa Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_188
+    name: South Africa Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_189
+    name: South Africa Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_190
+    name: South Africa Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_191
+    name: South Africa Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_192
+    name: South Africa Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_193
+    name: South Africa Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_194
+    name: South Africa Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_195
+    name: South Africa Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_196
+    name: South Africa Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_197
+    name: South Africa Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_198
+    name: South Africa Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_199
+    name: South Africa Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_200
+    name: South Africa Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_201
+    name: South Africa Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_202
+    name: South Africa Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_203
+    name: South Africa Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_204
+    name: South Africa Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_205
+    name: South Africa Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_206
+    name: South Africa Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_207
+    name: South Africa Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_208
+    name: South Africa Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_209
+    name: South Africa Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_210
+    name: South Africa Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_211
+    name: South Africa Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_212
+    name: South Africa Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_213
+    name: South Africa Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_214
+    name: South Africa Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_215
+    name: South Africa Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_216
+    name: South Africa Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_217
+    name: South Africa Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_218
+    name: South Africa Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_219
+    name: South Africa Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_220
+    name: South Africa Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_221
+    name: South Africa Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_222
+    name: South Africa Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_223
+    name: South Africa Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_224
+    name: South Africa Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_225
+    name: South Africa Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_226
+    name: South Africa Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_227
+    name: South Africa Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_228
+    name: South Africa Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_229
+    name: South Africa Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_230
+    name: South Africa Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_231
+    name: South Africa Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_232
+    name: South Africa Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_233
+    name: South Africa Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_234
+    name: South Africa Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_235
+    name: South Africa Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_236
+    name: South Africa Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_237
+    name: South Africa Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_238
+    name: South Africa Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_239
+    name: South Africa Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_240
+    name: South Africa Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_241
+    name: South Africa Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_242
+    name: South Africa Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_243
+    name: South Africa Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_244
+    name: South Africa Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_245
+    name: South Africa Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_246
+    name: South Africa Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_247
+    name: South Africa Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_248
+    name: South Africa Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_249
+    name: South Africa Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_250
+    name: South Africa Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_251
+    name: South Africa Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_za_252
+    name: South Africa Skill 252
+    status: ACTIVE_SCAFFOLD
