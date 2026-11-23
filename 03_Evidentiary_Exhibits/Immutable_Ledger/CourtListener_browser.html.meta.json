@@ -1,0 +1,16 @@
+{
+  "url": "https://www.courtlistener.com/",
+  "final_url": "https://www.courtlistener.com/",
+  "title": "CourtListener",
+  "fetched_at": "2026-11-23T00:12:03.207758Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "Browser outerHTML capture; HTTP status not captured by eval fallback. Do not treat as authenticated or verified.",
+  "content_type": "text/html; browser-rendered",
+  "bytes": 51996,
+  "sha256": "517642d53d8c59668b9da5f6c7c74297d58f0df755392468f3f6434eb6a4af6d",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "capture_method": "opencode-browse-extension+eval.outerHTML",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED"
+}

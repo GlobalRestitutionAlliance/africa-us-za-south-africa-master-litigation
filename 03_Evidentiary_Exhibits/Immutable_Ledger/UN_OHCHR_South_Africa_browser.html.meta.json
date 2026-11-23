@@ -1,0 +1,16 @@
+{
+  "url": "https://www.ohchr.org/en/countries/south-africa",
+  "final_url": "https://www.ohchr.org/en/countries/south-africa",
+  "title": "UN OHCHR South Africa",
+  "fetched_at": "2026-11-23T00:14:14.999107Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "Browser outerHTML capture; HTTP status not captured by eval fallback. Do not treat as authenticated or verified.",
+  "content_type": "text/html; browser-rendered",
+  "bytes": 60020,
+  "sha256": "cbfb6d4847f6eeaf158b3331f1cfb9b7fdbfa3a6883f5df0f7b57b381f632bed",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "capture_method": "opencode-browse-extension+eval.outerHTML",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED"
+}
